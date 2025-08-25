@@ -1,0 +1,119 @@
+.container1{
+    display: inline;
+    background-color: rgb(216, 65, 126);
+    height: 700px;
+    width: 300px;
+    position: fixed;
+    font-family: sans-serif;
+    color: aliceblue;
+    border: none;
+    border-radius: 30px;
+}
+
+.ghibli{
+    height: 200px;
+    width: 200px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.FW{
+    padding-left: 120px;
+    font-size: 10px;
+    font-family: sans-serif;
+
+}
+
+.name{
+    padding-left: 60px;
+    font-size: 20px;
+
+}
+
+.head1{
+    border: 2px;
+    border-bottom-color: pink;
+    padding-left: 95px;
+    font-size: 25px;
+}
+
+.mail-image{
+    padding-left: 120px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.phone-image{
+    padding-left: 120px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.mail{
+    font-size: 14px;
+    padding-left: 120px;
+    font-family: sans-serif;
+}
+
+.mailid{
+    padding-left: 40px;
+    font-size: 14px;
+}
+
+.image-mail{
+    align-self: center;
+    display: inline;
+}
+
+.phone{
+    font-size: 14px;
+    padding-left: 120px;
+    font-family: sans-serif;
+}
+
+.phoneid{
+    padding-left: 90px;
+    font-size: 14px;
+}
+
+.dob-image{
+    padding-left: 120px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.dob{
+    font-size: 14px;
+    padding-left: 118px;
+    font-family: sans-serif;
+}
+
+.dobid{
+    padding-left: 118px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+.about-me {
+    display: inline;
+    background-color: rgb(216, 65, 126);
+    width: 300px;
+    position: fixed;
+    font-family: sans-serif;
+    color: aliceblue;
+    border: none;
+    border-radius: 30px;
+}
